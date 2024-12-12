@@ -1,6 +1,4 @@
 # Deploying-Custom-Docker-Containers-to-the-Cloud-with-AWS-Elastic-Beanstalk
-
-# Containers on Elastic Beanstalk
 ![image](https://github.com/user-attachments/assets/2d3c42e0-12c1-4214-ac76-68cf50abf349)
 
 ## Overview
@@ -23,7 +21,6 @@ Containers have revolutionized software development by simplifying how applicati
 
 ---
 
-## Steps to Recreate the Project
 
 ### 1. Install Docker
 
