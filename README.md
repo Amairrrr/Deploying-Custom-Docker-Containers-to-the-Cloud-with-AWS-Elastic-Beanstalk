@@ -1,6 +1,7 @@
 # Deploying-Custom-Docker-Containers-to-the-Cloud-with-AWS-Elastic-Beanstalk
 
 # Containers on Elastic Beanstalk
+![image](https://github.com/user-attachments/assets/2d3c42e0-12c1-4214-ac76-68cf50abf349)
 
 ## Overview
 
@@ -167,5 +168,3 @@ By completing this project, I:
 
 ---
 ---
-
-Thank you for reviewing my project! I look forward to bringing my skills and passion for technology to your team.
